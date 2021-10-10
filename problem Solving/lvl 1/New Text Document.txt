@@ -1,0 +1,5 @@
+Substrings task
+problem 1 (code forces)
+sorting
+problem 2 (code forces)
+problem 3 (UVA)

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605874169 source:e:\c++code\problem\randam\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+
